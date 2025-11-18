@@ -1,0 +1,1 @@
+🚨 Emergency Alert System - A mobile-first web app with panic button to send GPS location and medical info to emergency contacts. Built with React, TypeScript, Express, and PostgreSQL. Features hold-to-activate button, dark mode, and real-time alerts.
